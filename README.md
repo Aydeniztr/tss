@@ -13,7 +13,7 @@ to do list:
  * add something like a online file submitter in the html
  * make some more widgets
  * make a login page ?
- * change the server header to <Tss+version> <Os_name_of_the_server>
+ * change the server header to '<Tss+version> <Os_name_of_the_server>'
                                                ^ or maybe a random generated name
 notes:
  * no need for installing any modules
