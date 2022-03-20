@@ -16,6 +16,7 @@ to do list:
  
 notes:
  * no need for installing any modules
+ * post requests are not available for now
  
 and here is the http message of it while server is running:
 
