@@ -1,4 +1,3 @@
-#!/data/data/com.termux/files/usr/bin/python3
 
 """HTTP server classes.
 
@@ -172,7 +171,7 @@ windows_logo = r'''
                  "VEzjt:;;z>*`
 '''
 
-background_url = ""
+background_url = "https://www.teahub.io/photos/full/4-42172_ubuntu-16-10.jpg"
 
 # Default error message template
 DEFAULT_ERROR_MESSAGE = """\
