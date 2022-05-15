@@ -872,7 +872,7 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
         r.append('ip-address:'+ socket.gethostbyname(socket.gethostname())) 
         r.append('mac-address:'+':'.join(re.findall('..', '%012x' % uuid.getnode())))
         r.append('processor:'+ platform.processor())
-        r.append('ram:'+ str(virtual_memory().total / (1024.0 **3))[:-14]+" GB" )
+#        r.append('ram:'+ str(virtual_memory().total / (1024.0 **3))[:-14]+" GB" )
         r.append('<!--')
         r.append('\n'+'advanced info'+'\n')
         r.append('</pre>')
