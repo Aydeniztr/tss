@@ -1,7 +1,7 @@
 # Tss
 That Server Software
 
-<img src='https://github.com/Aydeniztr/tss/blob/main/F281DA6A-B35C-4570-A153-0DAE2E74FB32.jpeg?raw=true'>
+<img src='https://github.com/Aydeniztr/tss/blob/main/F23A18A9-314E-4E46-81C6-F22CC3CBC51C.jpeg?raw=true'>
 
 <pre>
 
