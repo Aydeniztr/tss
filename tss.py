@@ -115,11 +115,11 @@ import logging
 
 from http import HTTPStatus
 
-sys.stderr = open(os.devnull, "w") 
-try:
-  from psutil import virtual_memory
-finally: 
-  sys.stderr = sys.__stderr__
+#sys.stderr = open(os.devnull, "w") 
+#try:
+#  from psutil import virtual_memory
+#finally: 
+#  sys.stderr = sys.__stderr__
 
 banner = r'''
 ╔╦╗┬ ┬┌─┐┌┬┐            
